@@ -1,0 +1,36 @@
+{
+  // GENERAL
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+
+  // ICON THEME
+  "workbench.iconTheme": "material-icon-theme",
+
+  // TERMINAL
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  // TAB
+  "editor.tabSize": 2,
+
+  // FONT
+  "editor.fontFamily": "'JetBrains Mono Regular', Consolas, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "editor.fontWeight": "normal",
+  "editor.fontLigatures": true,
+  "editor.letterSpacing": 0.4,
+  "editor.mouseWheelZoom": true,
+
+  // SCROLLING
+  "editor.smoothScrolling": true,
+
+  // FORMATING
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // EXPLORER BEHAVIOR
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDelete": false,
+  "explorer.confirmPasteNative": false,
+  "explorer.confirmDragAndDrop": false
+}
